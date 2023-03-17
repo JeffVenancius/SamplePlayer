@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/1-2.ogg-417d0817bcc84beae04849e20f6e094b.oggstr"
+
+[deps]
+
+source_file="res://title_screen/1-2.ogg"
+dest_files=[ "res://.import/1-2.ogg-417d0817bcc84beae04849e20f6e094b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
